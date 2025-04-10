@@ -1,4 +1,4 @@
-# Cine Spot
+# Cinegraam
 
 **Cine Spot** is a dynamic web app that lets users explore movie recommendations tailored to their favorite genres. It features a social feed where film enthusiasts can share reviews, connect with others, and celebrate their love for cinema.
 
